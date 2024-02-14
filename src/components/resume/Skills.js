@@ -93,7 +93,7 @@ const Skills = () => {
         </div>
         <div className="flex flex-col gap-6">
           <div className="overflow-x-hidden">
-            <p className="text-sm uppercase font-medium">PHP, Laravel</p>
+            <p className="text-sm uppercase font-medium">Nodejs, PHP, Laravel</p>
             <span className="w-full h-2 bgOpacity rounded-md inline-flex mt-2">
               <motion.span
                 initial={{ x: "-100%", opacity: 0 }}

@@ -46,7 +46,7 @@ const Navbar = () => {
               <div>
                 <img className="w-32" src={logo} alt="logo" />
                 <p className="text-sm text-gray-400 mt-2">
-                "I am a FullStack Developer. Strong in React & Laravel Frameworks, I am an innovative thinker and a solution provider."
+                "I am a FullStack Developer. Strong in React, Nodejs & Laravel Frameworks, I am an innovative thinker and a solution provider."
                 </p>
               </div>
               <ul className="flex flex-col gap-4">
